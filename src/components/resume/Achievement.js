@@ -17,7 +17,7 @@ const Achievement = () => {
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Introduction to Generative AI"
-            subTitle="Authorized by : Google Cloud Form Coursera"
+            subTitle="Authorized by : Google Cloud From Coursera"
             result="Success"
             des="This course introduces the basics of Generative AI, covering how models like language models and diffusion models generate content, and how they are trained."
             link="https://coursera.org/share/435c2d944d89a5fe8edeffa11ceb4d08"
@@ -31,7 +31,7 @@ const Achievement = () => {
           />
           <ResumeCard
             title="Generative Al: Introduction and Applications"
-            subTitle="Authorized by : IBM Form Coursera"
+            subTitle="Authorized by : IBM From Coursera"
             result="Success"
             des="Generative AI is a type of artificial intelligence that creates new content like text, images, or music by learning from existing data. It is used in many fields such as art, healthcare, and entertainment."
             link="https://coursera.org/share/7a2ba87d6c0a69f5fd94bba5de59cb15"
@@ -46,7 +46,7 @@ const Achievement = () => {
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Google AI Essentials"
-            subTitle="Authorized by : Google Form Coursera"
+            subTitle="Authorized by : Google From Coursera"
             result="Success"
             des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
             link="https://coursera.org/share/ce3e9732b3a0d54e30147f29c15656c7"
