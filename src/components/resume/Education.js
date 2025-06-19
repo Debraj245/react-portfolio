@@ -18,15 +18,15 @@ const Education = () => {
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="B-Tech in Computer Science and Engineering AI & ML (2023 - 2027)"
-            subTitle="Sister Nivedita University Form kolkata"
+            subTitle="Sister Nivedita University From kolkata"
             result="CGP:8.04"
             des="It is the training provided by universities or institutions to prepare individuals for employment in various sectors of the economy or cultural fields."
           />
           <ResumeCard
             title="Secondary School Education (2021 - 2023)"
-            subTitle="Chakdaha Ramlal Academy Form Nadia"
+            subTitle="Chakdaha Ramlal Academy From Nadia"
             result="Marks:89%"
-            des="econdary education or post-primary education covers two phases on the International Standard Classification of Education scale."
+            des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
           />
         </div>
       </div>
