@@ -11,7 +11,6 @@ const Projects = () => {
     >
       <div className="flex justify-center items-center text-center">
         <Title
-          title=""
           des="My Projects and Works"
         />
       </div>
@@ -20,6 +19,7 @@ const Projects = () => {
           title="Netfix CLONE"
           des="A streaming platform clone built with modern web technologies. Features include user authentication, movie browsing, and responsive design for all devices."
           githubLink="https://github.com/Debraj245/Netflix-Clone"
+          websiteLink=""
           src={netfixImg}
         />
         <ProjectsCard
