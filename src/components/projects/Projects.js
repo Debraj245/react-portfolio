@@ -19,7 +19,7 @@ const Projects = () => {
           title="Netfix CLONE"
           des="A streaming platform clone built with modern web technologies. Features include user authentication, movie browsing, and responsive design for all devices."
           githubLink="https://github.com/Debraj245/Netflix-Clone"
-          websiteLink=""
+          websiteLink="https://debraj245.github.io/Netflix-Clone/"
           src={netfixImg}
         />
         <ProjectsCard
