@@ -8,7 +8,7 @@ In your project root, use the following commands:
 
 🔧 npm start
 Launches the app in development mode.
-Opens at: http://localhost:3000
+Opens at: https://react-portfolio-ldnl.vercel.app
 Hot reload enabled — updates on save.
 
 ✅ npm test
