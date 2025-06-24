@@ -32,8 +32,4 @@ React Docs
 Deployment Guide
 🌟 Advanced Guides
 
-Code Splitting
-Bundle Analysis
-Progressive Web Apps
-Configuration Options
-Troubleshooting Build Errors
+Live Demo - react-portfolio-one-ebon.vercel.app 
