@@ -37,7 +37,7 @@ const ProjectsCard = ({ title, des, src, githubLink, websiteLink }) => {
                   rel="noopener noreferrer"
                 >
                   <span className="text-lg w-10 h-10 rounded-full bg-black inline-flex justify-center items-center text-gray-400 hover:text-designColor duration-300 cursor-pointer">
-                    <""/>
+                    <FaGlobe />
                   </span>
                 </a>
               )}
