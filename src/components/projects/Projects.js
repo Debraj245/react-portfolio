@@ -31,6 +31,8 @@ const Projects = () => {
           title="TO-DO-App"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          githubLink="https://github.com/Debraj245/To-Do-list"
+          websiteLink=""  
           src={projectThree}
         />
        
